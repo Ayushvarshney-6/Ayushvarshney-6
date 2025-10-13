@@ -28,7 +28,9 @@
 - 🥅 Goals: Contribute more to Open Source
 - ⚡ Fun fact: I love to play computer games
 - ✍️ Pursuing Web Development as hobbies/side hustles
-
+<br/>
+<br/>
+<br/>
 <hr/>
  
 <h2 align="center"> ⚒️ Languages-Frameworks-Tools ⚒️ </h2>
